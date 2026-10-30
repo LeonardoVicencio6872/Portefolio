@@ -1,0 +1,14 @@
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\bin\Debug\net8.0\Projeto01_Calculadora.exe
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\bin\Debug\net8.0\Projeto01_Calculadora.deps.json
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\bin\Debug\net8.0\Projeto01_Calculadora.runtimeconfig.json
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\bin\Debug\net8.0\Projeto01_Calculadora.dll
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\bin\Debug\net8.0\Projeto01_Calculadora.pdb
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.AssemblyInfoInputs.cache
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.AssemblyInfo.cs
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.dll
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\refint\Projeto01_Calculadora.dll
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.pdb
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\Projeto01_Calculadora.genruntimeconfig.cache
+C:\Users\Leonardo Vicêncio\source\repos\PSI_26_27_T1\Projeto01_Calculadora\Projeto01_Calculadora\obj\Debug\net8.0\ref\Projeto01_Calculadora.dll
