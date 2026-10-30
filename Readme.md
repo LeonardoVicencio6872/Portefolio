@@ -3,7 +3,7 @@ Este repositório foi criado no âmbito da disciplina de PSI.
  
 ## Autor
 - Nome: Leonardo Coelho Vicêncio
-- Turma: 11.º H, turno 1
+- Turma: 11.º H, Turno 1
  
 ## Objetivos
 - Compreender o controlo de versões.
